@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "HotelSystem.WebAPI.Controllers.ProductController",
+    "Method": "GetAllProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 100
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 205
+      }
+    ],
+    "EndpointName": "GetAllProducts",
+    "Description": "this is description",
+    "Summary": "the summary"
+  },
+  {
+    "ContainingType": "HotelSystem.WebAPI.Controllers.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "CreateProduct",
+    "Description": "this is description",
+    "Summary": "the summary"
+  }
+]

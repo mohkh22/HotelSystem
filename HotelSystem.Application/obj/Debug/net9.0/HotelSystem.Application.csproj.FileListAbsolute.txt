@@ -1,0 +1,15 @@
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\bin\Debug\net9.0\HotelSystem.Application.deps.json
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\bin\Debug\net9.0\HotelSystem.Application.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\bin\Debug\net9.0\HotelSystem.Application.pdb
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\bin\Debug\net9.0\HotelSystem.Domain.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\bin\Debug\net9.0\HotelSystem.Domain.pdb
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSystem.Application.csproj.AssemblyReference.cache
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSystem.Application.AssemblyInfoInputs.cache
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSystem.Application.AssemblyInfo.cs
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSystem.Application.csproj.CoreCompileInputs.cache
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSys.92DDAEE2.Up2Date
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSystem.Application.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\refint\HotelSystem.Application.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSystem.Application.pdb
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\ref\HotelSystem.Application.dll
