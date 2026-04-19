@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.application\\services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|solutionrelative:hotelsystem.application\\services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB2C8AC-F95C-408D-AEB4-70BA55B551FC}|HotelSystem.WebAPI\\HotelSystem.WebAPI.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB2C8AC-F95C-408D-AEB4-70BA55B551FC}|HotelSystem.WebAPI\\HotelSystem.WebAPI.csproj|solutionrelative:hotelsystem.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.application\\services\\implementaion\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|solutionrelative:hotelsystem.application\\services\\implementaion\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.application\\request\\book\\updatebookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|solutionrelative:hotelsystem.application\\request\\book\\updatebookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|solutionrelative:hotelsystem.application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.application\\services\\implementaion\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|solutionrelative:hotelsystem.application\\services\\implementaion\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.application\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|solutionrelative:hotelsystem.application\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IRoomService.cs",
-              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Services\\Interfaces\\IRoomService.cs",
-              "RelativeDocumentMoniker": "HotelSystem.Application\\Services\\Interfaces\\IRoomService.cs",
-              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Services\\Interfaces\\IRoomService.cs",
-              "RelativeToolTip": "HotelSystem.Application\\Services\\Interfaces\\IRoomService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Services\\Implementaion\\BookService.cs",
+              "RelativeDocumentMoniker": "HotelSystem.Application\\Services\\Implementaion\\BookService.cs",
+              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Services\\Implementaion\\BookService.cs",
+              "RelativeToolTip": "HotelSystem.Application\\Services\\Implementaion\\BookService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T01:31:45.166Z",
+              "WhenOpened": "2026-04-19T02:02:11.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateBookRequest.cs",
+              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Request\\Book\\UpdateBookRequest.cs",
+              "RelativeDocumentMoniker": "HotelSystem.Application\\Request\\Book\\UpdateBookRequest.cs",
+              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Request\\Book\\UpdateBookRequest.cs",
+              "RelativeToolTip": "HotelSystem.Application\\Request\\Book\\UpdateBookRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T02:01:47.188Z",
               "EditorCaption": ""
             },
             {
@@ -51,28 +68,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Services\\Implementaion\\RoomService.cs",
-              "RelativeDocumentMoniker": "HotelSystem.Application\\Services\\Implementaion\\RoomService.cs",
-              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Services\\Implementaion\\RoomService.cs",
-              "RelativeToolTip": "HotelSystem.Application\\Services\\Implementaion\\RoomService.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAA9wFwAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "HotelSystem.Application\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "HotelSystem.Application\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T01:05:26.688Z",
+              "WhenOpened": "2026-04-19T01:56:26.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Mapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "HotelSystem.Application\\Mapper\\MappingProfile.cs",
-              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Mapper\\MappingProfile.cs",
-              "RelativeToolTip": "HotelSystem.Application\\Mapper\\MappingProfile.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwC0AAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.WebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "HotelSystem.WebAPI\\Controllers\\BookController.cs",
+              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.WebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "HotelSystem.WebAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T01:03:09.615Z",
+              "WhenOpened": "2026-04-19T01:55:32.208Z",
               "EditorCaption": ""
             }
           ]

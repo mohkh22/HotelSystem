@@ -51,9 +51,9 @@ namespace HotelSystem.Application.Services.Implementaion
             return mappedBook;
         }
 
-        public async Task UpdateBookAsync(UpdateBookRequest book)
+        public async Task UpdateBookAsync(Guid id , UpdateBookRequest book)
         {
-            var existBook = await _uow.BookRepo.GetBookByIdAsync(book.Id);
+            var existBook = await _uow.BookRepo.GetBookByIdAsync(id);
             if (existBook == null || existBook.IsDeleted)
                 throw new NotFoundException("Not Found");
 

@@ -8,7 +8,7 @@ namespace HotelSystem.Application.Services.Interfaces
     public interface IBookService
     {
         Task CreateBookAsync(CreateBookRequest book);
-        Task UpdateBookAsync(UpdateBookRequest book);
+        Task UpdateBookAsync(Guid id , UpdateBookRequest book);
         Task DeleteBookAsync(Guid id);
         Task<BookResponse> GetBookByIdAsync(Guid id);
         Task<PageResult<BookResponse>> GetAllBooksAsync(int page = 1, int pagesize = 10);
