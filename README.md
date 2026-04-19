@@ -7,12 +7,12 @@ This project is designed to manage hotels, rooms, users, and roles efficiently w
 
 ## 🚀 Features
 
-- 🔐 Authentication & Authorization باستخدام JWT
+- 🔐 Authentication & Authorization JWT
 - 👥 Role-based Access Control (Admin / Manager / User / Staff)
 - 🏨 Manage Hotels (Create, Update, Delete, Get)
 - 🛏️ Manage Rooms And Link with hotel
 - 🖼️Upload Hotel Images
-- 📄 Pagination 
+- 📄 Pagination
 - ✅ Validation Using FluentValidation
 - ⚠️ Global Exception Handling + Custom Errors
 - 🎯 Filters (Action FIlter)
@@ -22,6 +22,7 @@ This project is designed to manage hotels, rooms, users, and roles efficiently w
 ## 🧱 Architecture
 
 Build Using Clean Archeticture
+
 - (Separation of Concerns)
 - (Scalability)
 - (Testability)
@@ -73,12 +74,15 @@ Build Using Clean Archeticture
 - `GET /api/rooms`
 
 ---
-## Screens From Swagger 
 
+## Screens From Swagger
+
+![Architecture](Screens/1.jpg)
+![Architecture](Screens/2.jpg)
 
 ## 📈 Future Improvements
 
--  Logging (Serilog)
+- Logging (Serilog)
 - Caching (Redis)
 - Integration Tests
 - Docker Support
