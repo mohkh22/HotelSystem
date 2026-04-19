@@ -17,3 +17,4 @@ F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Infra
 F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Infrastructure\obj\Debug\net9.0\ref\HotelSystem.Infrastructure.dll
 F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Infrastructure\bin\Debug\net9.0\HotelSystem.Infrastructure.runtimeconfig.json
 F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Infrastructure\obj\Debug\net9.0\HotelSystem.Infrastructure.genruntimeconfig.cache
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Infrastructure\obj\Debug\net9.0\HotelSystem.Infrastructure.sourcelink.json

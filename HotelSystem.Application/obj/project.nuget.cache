@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "sQ8fNblqHQE=",
+  "dgSpecHash": "yUz/IIBIRKY=",
   "success": true,
   "projectFilePath": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\HotelSystem.Application.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
+    "C:\\Users\\Mohamed\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Mohamed\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\Mohamed\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mohamed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 12.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\HotelSystem.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\HotelSystem.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

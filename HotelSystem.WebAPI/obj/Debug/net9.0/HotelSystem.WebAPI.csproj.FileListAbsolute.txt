@@ -170,3 +170,11 @@ F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAP
 F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\obj\Debug\net9.0\HotelSystem.WebAPI.sourcelink.json
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\AutoMapper.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\BCrypt.Net-Next.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\FluentValidation.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.WebAPI\bin\Debug\net9.0\HotelSystem.WebAPI.staticwebassets.runtime.json

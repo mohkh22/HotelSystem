@@ -221,6 +221,37 @@ namespace HotelSystem.Infrastructure.Migrations
                     b.ToTable("Payments");
                 });
 
+            modelBuilder.Entity("HotelSystem.Domain.Models.RefreshToken", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("ExpireDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsRevoked")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bit")
+                        .HasDefaultValue(false);
+
+                    b.Property<string>("Token")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("RefreshTokens");
+                });
+
             modelBuilder.Entity("HotelSystem.Domain.Models.Role", b =>
                 {
                     b.Property<Guid>("Id")
@@ -345,6 +376,9 @@ namespace HotelSystem.Infrastructure.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
+                    b.Property<Guid?>("HotelId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<bool>("IsConfirmedEmail")
                         .HasColumnType("bit");
 
@@ -364,6 +398,8 @@ namespace HotelSystem.Infrastructure.Migrations
                         .HasColumnType("nvarchar(50)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("HotelId");
 
                     b.ToTable("Users");
                 });
@@ -459,6 +495,17 @@ namespace HotelSystem.Infrastructure.Migrations
                     b.Navigation("Book");
                 });
 
+            modelBuilder.Entity("HotelSystem.Domain.Models.RefreshToken", b =>
+                {
+                    b.HasOne("HotelSystem.Domain.Models.User", "User")
+                        .WithMany("RefreshTokens")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("HotelSystem.Domain.Models.Room", b =>
                 {
                     b.HasOne("HotelSystem.Domain.Models.Hotel", "Hotel")
@@ -476,6 +523,15 @@ namespace HotelSystem.Infrastructure.Migrations
                     b.Navigation("Hotel");
 
                     b.Navigation("RoomType");
+                });
+
+            modelBuilder.Entity("HotelSystem.Domain.Models.User", b =>
+                {
+                    b.HasOne("HotelSystem.Domain.Models.Hotel", "Hotel")
+                        .WithMany("Users")
+                        .HasForeignKey("HotelId");
+
+                    b.Navigation("Hotel");
                 });
 
             modelBuilder.Entity("HotelSystem.Domain.Models.UserRole", b =>
@@ -511,6 +567,8 @@ namespace HotelSystem.Infrastructure.Migrations
                     b.Navigation("HotelImages");
 
                     b.Navigation("Rooms");
+
+                    b.Navigation("Users");
                 });
 
             modelBuilder.Entity("HotelSystem.Domain.Models.Role", b =>
@@ -531,6 +589,8 @@ namespace HotelSystem.Infrastructure.Migrations
             modelBuilder.Entity("HotelSystem.Domain.Models.User", b =>
                 {
                     b.Navigation("Books");
+
+                    b.Navigation("RefreshTokens");
 
                     b.Navigation("UserRoles");
                 });

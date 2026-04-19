@@ -1,4 +1,6 @@
 ﻿using HotelSystem.Infrastructure.Data;
+using HotelSystem.Infrastructure.Services.Implementaion;
+using HotelSystem.Infrastructure.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -13,6 +15,9 @@ namespace HotelSystem.Infrastructure.DI
             {
                 options.UseSqlServer(configuration.GetConnectionString("DbContect")); 
             }); 
+
+            services.AddScoped<ITokenService, TokenService>();
+
             return services;
         }
 

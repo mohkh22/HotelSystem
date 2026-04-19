@@ -13,3 +13,4 @@ F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Appli
 F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\refint\HotelSystem.Application.dll
 F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSystem.Application.pdb
 F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\ref\HotelSystem.Application.dll
+F:\fullstack\ProjectsFullStack\HotelSystem\BackEnd\HotelSystem\HotelSystem.Application\obj\Debug\net9.0\HotelSystem.Application.sourcelink.json

@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Migrations\\20260405153059_SeedRolesData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HotelSystem.Infrastructure\\Migrations\\20260405153059_SeedRolesData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5501BA51-A611-4F16-B3CE-3753B1128DE5}|HotelSystem.Infrastructure\\HotelSystem.Infrastructure.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.infrastructure\\data\\configurations\\bookroomconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5501BA51-A611-4F16-B3CE-3753B1128DE5}|HotelSystem.Infrastructure\\HotelSystem.Infrastructure.csproj|solutionrelative:hotelsystem.infrastructure\\data\\configurations\\bookroomconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D674C73B-1877-4650-8544-5EB8F6DB68BF}|HotelSystem.Domain\\HotelSystem.Domain.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.domain\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D674C73B-1877-4650-8544-5EB8F6DB68BF}|HotelSystem.Domain\\HotelSystem.Domain.csproj|solutionrelative:hotelsystem.domain\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D674C73B-1877-4650-8544-5EB8F6DB68BF}|HotelSystem.Domain\\HotelSystem.Domain.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.domain\\models\\bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D674C73B-1877-4650-8544-5EB8F6DB68BF}|HotelSystem.Domain\\HotelSystem.Domain.csproj|solutionrelative:hotelsystem.domain\\models\\bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5501BA51-A611-4F16-B3CE-3753B1128DE5}|HotelSystem.Infrastructure\\HotelSystem.Infrastructure.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5501BA51-A611-4F16-B3CE-3753B1128DE5}|HotelSystem.Infrastructure\\HotelSystem.Infrastructure.csproj|solutionrelative:hotelsystem.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Migrations\\20260405152150_AddAllModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HotelSystem.Infrastructure\\Migrations\\20260405152150_AddAllModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|f:\\fullstack\\projectsfullstack\\hotelsystem\\backend\\hotelsystem\\hotelsystem.application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A8389C-C012-40D2-AA20-9D9097AADF43}|HotelSystem.Application\\HotelSystem.Application.csproj|solutionrelative:hotelsystem.application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,79 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20260405153059_SeedRolesData.cs",
-              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Migrations\\20260405153059_SeedRolesData.cs",
-              "RelativeDocumentMoniker": "HotelSystem.Infrastructure\\Migrations\\20260405153059_SeedRolesData.cs",
-              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Migrations\\20260405153059_SeedRolesData.cs",
-              "RelativeToolTip": "HotelSystem.Infrastructure\\Migrations\\20260405153059_SeedRolesData.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBQAAAAWAAAAAAAAAA==",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HotelSystem.Application\\Mapper\\MappingProfile.cs",
+              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Application\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "HotelSystem.Application\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:31:00.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookRoomConfiguration.cs",
-              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Data\\Configurations\\BookRoomConfiguration.cs",
-              "RelativeDocumentMoniker": "HotelSystem.Infrastructure\\Data\\Configurations\\BookRoomConfiguration.cs",
-              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Data\\Configurations\\BookRoomConfiguration.cs",
-              "RelativeToolTip": "HotelSystem.Infrastructure\\Data\\Configurations\\BookRoomConfiguration.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:26:34.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Room.cs",
-              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Domain\\Models\\Room.cs",
-              "RelativeDocumentMoniker": "HotelSystem.Domain\\Models\\Room.cs",
-              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Domain\\Models\\Room.cs",
-              "RelativeToolTip": "HotelSystem.Domain\\Models\\Room.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:26:18.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookRoom.cs",
-              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Domain\\Models\\BookRoom.cs",
-              "RelativeDocumentMoniker": "HotelSystem.Domain\\Models\\BookRoom.cs",
-              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Domain\\Models\\BookRoom.cs",
-              "RelativeToolTip": "HotelSystem.Domain\\Models\\BookRoom.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:25:44.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "HotelSystem.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "HotelSystem.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:21:57.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20260405152150_AddAllModels.cs",
-              "DocumentMoniker": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Migrations\\20260405152150_AddAllModels.cs",
-              "RelativeDocumentMoniker": "HotelSystem.Infrastructure\\Migrations\\20260405152150_AddAllModels.cs",
-              "ToolTip": "F:\\fullstack\\ProjectsFullStack\\HotelSystem\\BackEnd\\HotelSystem\\HotelSystem.Infrastructure\\Migrations\\20260405152150_AddAllModels.cs",
-              "RelativeToolTip": "HotelSystem.Infrastructure\\Migrations\\20260405152150_AddAllModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T15:21:50.893Z",
+              "WhenOpened": "2026-04-19T01:03:09.615Z",
               "EditorCaption": ""
             }
           ]

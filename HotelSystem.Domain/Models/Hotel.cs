@@ -10,6 +10,7 @@
         public int Capacity { get; set; }
         public DateTime CreatedAt { get; set; }
         public bool IsDeleted { get; set; }
+        public ICollection<User> Users { get; set; } = new List<User>();
         public ICollection<Room> Rooms { get; set; } = new List<Room>();
         public ICollection<HotelImage> HotelImages { get; set; } = new List<HotelImage>();
         public ICollection<Book> Books { get; set; } = new List<Book>();

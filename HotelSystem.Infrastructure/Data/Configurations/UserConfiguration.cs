@@ -40,6 +40,10 @@ namespace HotelSystem.Infrastructure.Data.Configurations
                         .WithOne(ur => ur.User)
                         .HasForeignKey(ur => ur.UserId)
                         .OnDelete(DeleteBehavior.Cascade);
+
+            builder.HasOne(x => x.Hotel)
+                .WithMany(x => x.Users)
+                .HasForeignKey(x => x.HotelId);
         }
     }
 }
